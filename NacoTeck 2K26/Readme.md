@@ -145,12 +145,12 @@ public class HuffmanLite {
 ---
 
 ## 📸 Round 1 Question Paper
-![Round 1 Question Paper](./Images/Round1.jpg)
+![Round 1 Question Paper](./Images/round1.jpg)
 
 ---
 
 ## 📸 Round 2 Question Paper
-![Round 2 Question Paper](./Images/Round2.jpg)
+![Round 2 Question Paper](./Images/round2.jpg)
 
 ---
 
