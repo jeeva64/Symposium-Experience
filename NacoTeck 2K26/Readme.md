@@ -139,24 +139,18 @@ public class HuffmanLite {
 4. **Encoding Process:** Iterate through input string and replace each character with its corresponding code
 5. **Output:** Concatenated binary-like string representing the encoded input
 
-### Related Problems on Coding Platforms:
-- **LeetCode 399:** Evaluate Division (Graph-based relationship)
-- **LeetCode 347:** Top K Frequent Elements (Frequency sorting)
-- **LeetCode 1167:** Minimum Cost to Connect Sticks (Huffman Coding concept)
-- **GeeksforGeeks:** Huffman Coding Implementation
-
 ### Time Complexity: O(n log k) where n = string length, k = unique characters
 ### Space Complexity: O(k) for storing frequency map and codes
 
 ---
 
 ## 📸 Round 1 Question Paper
-[Add image of Round 1 question paper here]
+![Round 1 Question Paper](./Images/Round1.jpg)
 
 ---
 
 ## 📸 Round 2 Question Paper
-[Add image of Round 2 question paper here]
+![Round 2 Question Paper](./Images/Round2.jpg)
 
 ---
 
@@ -173,10 +167,9 @@ public class HuffmanLite {
 
 ## 💡 Key Takeaways
 
-1. **No Hardcoding:** Both solutions derive patterns mathematically
-2. **Intuitive Design:** Huffman-Lite algorithm is simpler than standard Huffman but follows the same principle
-3. **Character-wise Processing:** Iterating and substituting characters is more efficient than pattern matching
-4. **Frequency Optimization:** Most frequent characters get shorter codes for better compression
+1. **Intuitive Design:** Huffman-Lite algorithm is simpler than standard Huffman but follows the same principle
+2. **Character-wise Processing:** Iterating and substituting characters is more efficient than pattern matching
+3. **Frequency Optimization:** Most frequent characters get shorter codes for better compression
 
 ---
 
